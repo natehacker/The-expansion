@@ -11,3 +11,4 @@ https://datausa.io/api/data?drilldowns=State&measures=Population&year=latest
 WIREFRAME
 https://wireframe.cc/pro/pp/f17f1a973597457
 
+<img src ="./assests/nate.jpg" alt="nate">
