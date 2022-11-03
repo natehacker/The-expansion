@@ -1,13 +1,17 @@
-# The-expansion
+# Did You Know? Fun Facts About Numbers 
 project 2 
 
 
 Nathan Louissaint 
 
-Project 2 the expansion 
+Project 2  Did You Know?
 
-My project 2 will be called expansion the reason I choose this name is because it will display how the population of the United States of America has expanded in the previous years the search will go as far back as 2013 to our current date.  Using the free API I found called population to display all the data 
+Hello everyone, My project 2 is an informative educational Game called did you know ?.  The point of this project is to give you random facts about numbers that you might have not known the game is made for kids helping them learn to start counting while also giving fun facts to the adults, keeping both parties interested an amazing way to learn 
 
- my Wireframe
 
-https://wireframe.cc/pro/pp/43b15ce4e597392
+My API
+http://numbersapi.com/
+
+WIREFRAME
+https://wireframe.cc/pro/pp/f17f1a973597457
+
