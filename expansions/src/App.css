@@ -1,0 +1,52 @@
+
+
+
+header {
+    background-color: rgb(29, 25, 18);
+    border-radius: 60px;
+    padding: 40px;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 200px;
+
+  }
+  
+  
+  header ul {
+    
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+   
+    
+   
+  }
+  
+  header a {
+    color: #eee;
+    font-size: 3.5rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    margin: auto 7em;
+    
+   
+  }
+  
+  header a:hover {
+    color: rgb(19, 16, 13);
+  }
+
+  body {
+    background-image: url("https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/314502813_3263667657225719_3288373355728707168_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=91lSkFp3b_0AX-1J5zR&tn=-25jhJ4PMG_A0SAH&_nc_ht=scontent-atl3-2.xx&oh=00_AfAEkTi7JqfMzhcelN56GYZiOssIKgd_ZsbRrTIVwHDH9Q&oe=636D46E0");
+    
+  
+
+  height: 200px;
+  background-size: cover;
+    
+
+  }
+
