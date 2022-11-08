@@ -4,6 +4,9 @@ import State from "./components/State"
 import './App.css';
 import axios from "axios"
 import { useState,useEffect } from "react";
+import { Routes, Route } from 'react-router-dom';
+import Population from "./components/Population"
+
 
 
 const App = () => {
@@ -20,10 +23,13 @@ const App = () => {
 
   return (
     <div>
-
-      
-    <State selectedPopulation={selectedPopulation}/>
-    <Nav />
+       <Nav />
+       
+      <Routes>
+      <Route path ="/population" element ={<Population selectedPopulation={selectedPopulation}/>}/>
+         <Route path ="/state" element ={<State selectedPopulation={selectedPopulation}/>}/>
+      </Routes>  
+   
     </div>
   );
 }

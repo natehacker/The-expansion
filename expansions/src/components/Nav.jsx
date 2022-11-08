@@ -2,21 +2,23 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 
+
 const Nav = () => {
     return (
      <header>
        <div className="nav">
          <ul>
            <li>
-             <Link to="/state">States</Link>
+             <Link to="/year">year</Link>
            </li>
            <li>
-             <Link to="/population">Population</Link>
+             <Link to="/state">state</Link>
            </li>
            <li>
-             <Link to="/year">Year</Link>
+             <Link to="/population">population</Link>
            </li>
          </ul>
+         
        </div>
      </header>
    )
