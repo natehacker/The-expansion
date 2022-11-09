@@ -1,8 +1,6 @@
 
 
 
-
-  
   
   header ul {
     
@@ -28,14 +26,46 @@
   header a:hover {
     color: rgb(19, 16, 13);
   }
+body{
+  background-color: black;
+}
+ 
+  
 
-  body {
-    
-  background-color: rgb(16, 91, 113);
-
-  height: 200px;
-  background-size: cover;
-    
-
+  .you{
+   
   }
-
+  .look{
+    margin: 0;
+   position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  
+  }
+  
+.hi{
+  margin: 0;
+  position: absolute;
+  bottom: -120%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: red;
+}
+p{
+  color: red;
+  text-align: center;
+  font-size: 40px;
+}
+.grid{
+  font-size: 70px;
+  text-align: center;
+  color: red;
+ 
+}

@@ -1,6 +1,7 @@
 import { BASE_URL } from "./components/Global"
 import Nav from "./components/Nav"
 import State from "./components/State"
+import Year from "./components/Year"
 import './App.css';
 import axios from "axios"
 import { useState,useEffect } from "react";
@@ -26,6 +27,7 @@ const App = () => {
        <Nav />
        
       <Routes>
+      <Route path="/year" element={ <Year /> } />
       <Route path ="/population" element ={<Population selectedPopulation={selectedPopulation}/>}/>
          <Route path ="/state" element ={<State selectedPopulation={selectedPopulation}/>}/>
       </Routes>  
