@@ -1,7 +1,6 @@
 import linegraph3 from "../assests/linegraph3.jpg"
 import llgar from "../assests/llgar.jpg"
 
-import theone from "../assests/theone.jpg"
 const Year= () => {
     return (
       <div className="year">

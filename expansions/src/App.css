@@ -33,6 +33,12 @@ body{
   
 
   .you{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
    
   }
   .look{
@@ -67,5 +73,8 @@ p{
   font-size: 70px;
   text-align: center;
   color: red;
+ 
+}
+.me{
  
 }

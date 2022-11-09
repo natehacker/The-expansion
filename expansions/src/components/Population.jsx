@@ -1,4 +1,4 @@
-import linegraph3 from "../assests/linegraph3.jpg"
+import Mist from "../assests/Mist.jpg"
 import { useNavigate } from "react-router-dom"
 import population from "./Population"
 
@@ -12,16 +12,24 @@ const Population = (props) =>{
  
   console.log(props.selectedPopulation)
  if(!props.selectedPopulation) {
-  return <h2> </h2>
+  return 
  } else {
   return (
+
+   
       <div className="grid">
-        <div className="you">
+        
+       
+
+
+
+<div className="us">
         {<img
 
-  src={linegraph3}
+  src={Mist}
   alt="logo"
 /> }
+
 </div>
 
           {
