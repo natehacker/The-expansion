@@ -6,12 +6,6 @@ import Nav from "./Nav"
 import { useNavigate } from "react-router-dom"
 import population from "./Population"
 
-
-
-
-
-
-
 const State = (props) =>{
   let navigate = useNavigate()
   const showstate = (state)=>{
@@ -32,6 +26,7 @@ const State = (props) =>{
      </h2>
  } else {
   return (
+    
       <div className="grid">
         <div className="nate">
 
@@ -51,7 +46,7 @@ const State = (props) =>{
                    </div>
               
                   
-
+                   
 
               <div>
              
