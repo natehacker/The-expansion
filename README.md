@@ -1,11 +1,11 @@
 
-                                                      Nathan Louissaint 
+                                                     Nathan Louissaint 
 
-                                                          Project 2 
+                                                         Project 2 
                                                                    
-                                                         THE EXPANSION 
+                                                       THE EXPANSION 
                                                             
-                                                      API CALL USING AXIOS
+                                                   API CALL USING AXIOS
                                                                 
                                                                 
                                                                 
