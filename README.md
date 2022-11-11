@@ -1,14 +1,25 @@
 
-Nathan Louissaint 
+                                                                Nathan Louissaint 
 
-Project 2  THE EXPANSION
+                                                                   Project 2 
+                                                                   
+                                                                 THE EXPANSION 
+                                                                 
+                                                               API CALL USING AXIOS
+                                                                
+                                                                
+                                                                
+                                                                
+The past and future of the global age structure. In 1950 there were 2.5 billion people on the planet. Now in 2022, there are around 8 billion. By the end of the century, the UN expects a global population of around 10.4 billion. growth has been driven largely by increasing numbers of people surviving to reproductive age, and has been accompanied by major changes in fertility rates, increasing urbanization and accelerating migration. These trends will have far-reaching implications for generations to come.The information I have gathered for you is directly from the Census Bureau, All data was pulled from an API and some additional sources that displays the states and their current population and along with this data I have provided graphs to help give a better visual feel free to ask any questions 
 
-My project 2 will be called expansion the reason I choose this name is because it will display how the population of the United States of America has expanded in the previous years search will go as far back as 2013 to our current date.  Using the free API I found called population 
 
-My API 
-https://datausa.io/api/data?drilldowns=State&measures=Population&year=latest
 
-WIREFRAME
-https://wireframe.cc/tjhJgJ
 
-<img src ="https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/314506237_3265549413704210_7358429111405368_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=KUg2ywoxtAYAX92OIdU&_nc_ht=scontent-atl3-1.xx&oh=00_AfA7WU8OPlU31YcUGD0ixEUUkc0a4lXXSnqNiqD45wbIqw&oe=6370C45C" alt="nate">
+
+                                                                        My API 
+                                   https://datausa.io/api/data?drilldowns=State&measures=Population&year=latest
+
+                                                             
+
+
+ <img src ="https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/314810970_3266480293611122_4888945246179695715_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=Fd1sa59_laAAX9uQQK9&_nc_ht=scontent-atl3-2.xx&oh=00_AfDj6HbOp8rfadhGeCbMb-ZZN53zj-xl5Cs0v7Hsfku7JQ&oe=63726BC7" alt="nate">
